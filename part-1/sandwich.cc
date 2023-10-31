@@ -1,4 +1,7 @@
-// TODO: Add the required header
+// Cardin Phan
+// Phancardin@csu.fullerton.edu
+// @Card1n
+// Partners: @NathanJuar, @abelchavez24
 
 #include <iostream>
 #include <string>
